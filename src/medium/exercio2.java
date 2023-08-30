@@ -14,6 +14,6 @@ public class exercio2 {
         resultado = numerodigitado * 2;
         System.out.println("o dobro do numero digitado e: " + resultado);
         JOptionPane.showInputDialog(null,"o dobro do numero digitado e: " + resultado);
-    }//fim
+    }//fima
 
 }
